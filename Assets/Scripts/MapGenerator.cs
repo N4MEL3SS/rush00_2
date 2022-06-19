@@ -7,15 +7,15 @@ public class MapGenerator : MonoBehaviour
 
 	private void Start()
 	{
-		Generate();
+		// Generate();
 	}
 
-	private void Generate()
-	{
-		for(var x = 0; x = < map.width; x++)
-		{
-			for (var t = y, map.height)
-				GenerateTile.toFile.()
-		}
-	}
+	// private void Generate()
+	// {
+	// 	for(var x = 0; x = < map.width; x++)
+	// 	{
+	// 		for (var t = y, map.height)
+	// 			GenerateTile.toFile.()
+	// 	}
+	// }
 }
